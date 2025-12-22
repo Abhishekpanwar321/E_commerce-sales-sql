@@ -1,0 +1,72 @@
+SQL Sales & Customer Analytics Project
+Project Overview
+
+Designed and executed a comprehensive SQL-based sales and customer analysis project using transactional e-commerce data. The project involved writing basic, intermediate, and advanced SQL queries to analyze customer demographics, sales performance, revenue contribution, and customer retention behavior.
+
+Key Responsibilities & Analysis Performed
+Basic SQL Analysis
+
+Extracted unique customer cities to understand geographic distribution.
+
+Counted orders placed in a specific year (2017) for time-based analysis.
+
+Calculated total sales by product category to identify top revenue drivers.
+
+Computed the percentage of installment-based payments to analyze customer payment behavior.
+
+Analyzed customer distribution by state to support regional market insights.
+
+Intermediate SQL Analysis
+
+Calculated monthly order volume for 2018 to identify seasonal trends.
+
+Determined the average number of products per order, grouped by customer city.
+
+Calculated the percentage contribution of each category to total revenue.
+
+Analyzed the relationship between product price and purchase frequency.
+
+Computed seller-wise total revenue and ranked sellers using window functions.
+
+Advanced SQL Analysis
+
+Calculated moving averages of order values for each customer to track spending behavior over time.
+
+Generated cumulative monthly sales for each year to analyze growth patterns.
+
+Calculated year-over-year (YoY) sales growth rates to measure business performance.
+
+Measured customer retention rate, identifying customers who made repeat purchases within 6 months.
+
+Identified top 3 highest-spending customers per year using ranking functions.
+
+SQL Concepts & Techniques Used
+
+JOINs (INNER, LEFT)
+
+GROUP BY, HAVING
+
+Aggregate functions (SUM, AVG, COUNT)
+
+Date functions
+
+Subqueries & CTEs
+
+Window functions (RANK, DENSE_RANK, ROW_NUMBER)
+
+Moving averages
+
+Cumulative sums
+
+Percentage calculations
+
+Customer retention logic
+Business Insights Delivered
+
+Identified high-performing product categories and sellers.
+
+Discovered seasonal order trends and yearly growth patterns.
+
+Highlighted repeat customer behavior and retention rates.
+
+Provided data-driven insights to support pricing, seller performance, and customer engagement strategies.
